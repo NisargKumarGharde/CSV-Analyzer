@@ -1,0 +1,21 @@
+Problem Statement No. 50
+
+Basic CSV File Analyzer with Python Description:
+
+Design a Python script that reads a CSV file and give quick insights.
+
+Expected Outcome:
+
+1. Show file structure (columns, types)
+2. Show top 5 rows
+3. Show bottom 5 rows
+4. Count of unique values per column
+5. Save cleaned data to a new CSV
+
+Input:
+
+Any CSV file
+
+Concepts:
+
+Python, Pandas, File I/O
