@@ -18,6 +18,7 @@ _I already imported_ os _in my python script for you to read in your respective 
 1. It asks for an input, i.e your csv file
 2. Enter the path of CSV file (copy from folder)
 3. You will get the output as expected.
+4. Also the new CSV file will be saved in your default folder selected.
 
 #### NOTE: This is a basic csv file analyzer and only the required output will be out that were asked to do.
 
