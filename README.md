@@ -1,6 +1,6 @@
 # Project 1
 # CSV-Analyzer
-A Python script created to help you get quick insights to your csv file.
+_A Python script created to help you get quick insights to your csv file._
 
 Part of my college IIT Patna tied up with GUVI(HCL) internship.
 Under the part of Data Science, these is the Problem Statement no. 50
